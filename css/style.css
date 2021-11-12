@@ -14,7 +14,7 @@ a {
 
 .medsos {
 	padding:5px 0;
-	background-color: #148F77;
+	background-color: #92323a;
 }
 .medsos ul li {
 	display: inline-block;
@@ -33,7 +33,7 @@ a {
 header h1 {
 	float: left;
 	padding:15px 0;
-	color: #148F77;
+	color: #92323a;
 }
 header ul {
 	float: right;
@@ -46,11 +46,11 @@ header ul li a {
 	display: inline-block;
 }
 header ul li a:hover {
-	background-color: #148F77;
+	background-color: #92323a;
 	color: #fff;
 }
 .active {
-	background-color: #148F77;
+	background-color: #92323a;
 	color: #fff;
 }
 .banner {
@@ -70,7 +70,7 @@ header ul li a:hover {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: rgba(20, 143, 119, .6);
+	background-color: #92323a(20, 143, 119, .6);
 }
 .banner h2 {
 	color: #fff;
@@ -166,7 +166,7 @@ section {
 section h3 {
 	text-align: center;
 	padding:20px 0;
-	color: #148F77;
+	color: #92323a;
 	margin-bottom: 25px;
 }
 .about,
@@ -184,7 +184,7 @@ section h3 {
 	background-color: #f9f9f9;
 }
 .box {
-	color: #148F77;
+	color: #92323a;
 }
 .box:after {
 	content: '';
@@ -234,13 +234,13 @@ footer {
 	height: 100px;
 	border:3px solid #fff;
 	border-radius: 50%;
-	border-top-color: #148F77;
-	border-right-color: #148F77;
-	border-bottom-color: #148F77;
+	border-top-color: #92323a;
+	border-right-color: #92323a;
+	border-bottom-color: #92323a;
 	animation: puterin .8s linear infinite;
 }
 .label {
-	background-color: #148F77;
+	background-color: #92323a;
 	color: #fff;
 }
 @keyframes puterin {
